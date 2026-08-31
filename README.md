@@ -2,7 +2,7 @@
 
 An interactive **Inventory Policy Simulation and Analysis** application built with **Python and Streamlit** to evaluate and compare different inventory replenishment policies under deterministic and stochastic demand.
 
-> **Project Note:** This project is an **extension of Samir Saci's inventory simulation work**, with additional inventory policies, EOQ-based ordering, stochastic demand, safety stock, reorder-point logic, and multi-policy comparison developed on top of the original concept.
+> **Project Note:** This project is an **extension of the inventory simulation work developed by [@Samir Saci](https://github.com/samirsaci)**, with additional inventory policies, EOQ-based ordering, stochastic demand, safety stock, reorder-point logic, and multi-policy comparison developed on top of the original concept.
 
 ---
 
@@ -29,7 +29,7 @@ The application simulates six different inventory scenarios and compares their:
 
 The Streamlit application allows users to enter business-level inventory parameters through a sidebar and run all six inventory simulations.
 
-The application then provides:
+The application provides:
 
 - Three-panel visual analysis
 - Inventory policy comparison
